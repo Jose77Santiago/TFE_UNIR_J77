@@ -1,0 +1,21 @@
+.main_fecha_hora{
+    display: flex;
+    justify-content: center;
+    margin-right: -2%;
+}
+
+.bloque_text_reloj{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.text_fecha{
+    width: 180px;
+}
+
+.img_reloj{
+    height: 30px;
+    width: 30px;
+    margin-right: 0.6%;
+}

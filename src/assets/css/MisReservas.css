@@ -1,0 +1,22 @@
+.main_mis_reservas{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 2%;
+}
+
+.img_mis_reservas{
+    padding: 10px;
+    padding-left: 14px;
+    border: 2px solid black;
+    border-radius: 10%;
+    margin-top: 10%;
+    width: 80px;
+    height: 80px;
+}
+
+.text_mis_reservas{
+    font-size: 20px;
+    font-weight: 700;
+}

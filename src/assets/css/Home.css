@@ -1,0 +1,35 @@
+.completo_home {
+    width: 100%;
+    /* border: 2px solid black;
+    border-radius: 15px; */
+}
+
+.body_home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 1%;
+}
+
+.boton_volver{
+    margin-right: -80%;
+    height: 100px;
+}
+
+.img_cerrar_sesion{
+    height: 25px;
+    width: 25px;
+}
+
+.text_cerrar_sesion{
+    width: 150px;
+}
+
+.bloque_cerrar_sesion {
+    display: flex;
+    flex-direction: row;
+    margin-top: -5%;
+    margin-bottom: 2%;
+    margin-left: 4%;
+}
